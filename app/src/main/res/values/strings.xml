@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Phone Assistant</string>
+    <string name="accessibility_service_description">AI Assistant нужен доступ для управления другими приложениями. Это позволяет выполнять голосовые команды: открывать приложения, нажимать кнопки, вводить текст.</string>
+    <string name="notification_channel_name">AI Assistant Service</string>
+    <string name="notification_channel_description">Уведомления о работе AI Assistant</string>
+</resources>
